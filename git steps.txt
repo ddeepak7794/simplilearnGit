@@ -1,0 +1,5 @@
+i love krushna
+and also vithal
+steps to git 
+
+1.git init
