@@ -5,7 +5,7 @@ steps to git
 1.git init
 2.git add file_name
 3.git commit -m ""
-4.git branch -M "vithal"
+4.git branch -M "krushna"
 5.git remote add origin "https://github.com/ddeepak7794/simplilearnGit"
 6.git push -u origin krushna
 
